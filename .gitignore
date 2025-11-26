@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.db
+*.db-shm
+*.db-wal
+*.log
+*.html
+test_*.py
+price_parser.py
