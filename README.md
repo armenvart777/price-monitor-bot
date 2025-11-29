@@ -11,6 +11,10 @@
 - поддержка прокси (в т.ч. SOCKS5) для обхода блокировок
 - ротация User-Agent для снижения вероятности блокировок
 
+## Требования
+
+Python 3.10+
+
 ## Стек
 
 aiogram 3, aiohttp, aiosqlite, anthropic, python-dotenv
