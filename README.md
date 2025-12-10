@@ -27,3 +27,7 @@ cp .env.example .env
 # заполнить BOT_TOKEN и ANTHROPIC_API_KEY
 python main.py
 ```
+
+## Лицензия
+
+MIT
